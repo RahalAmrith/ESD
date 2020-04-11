@@ -6,6 +6,8 @@ pizza
 burger
 Chicken fry
 
+beans
+sandwich
 
 
 Thank you :) 
