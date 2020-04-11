@@ -6,8 +6,12 @@ pizza
 burger
 Chicken fry
 
+beans
+sandwich
 
 
 Thank you :) 
+
+Done my changes
 
 Final Copy
